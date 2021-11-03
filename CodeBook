@@ -1,0 +1,12 @@
+THE CODE USED IN THIS EXERCISE
+
+dplyr         : package for tid data
+getwd()       : to get the current directory location
+setwd()       : to set directory where to work
+read.table()  : to read txt document file
+rbind()       : to bind the row to merge 2 data sets
+cbind()       : to bind the columns to merge 2 data sets
+select()      : to select specific columns from a data set
+names()       : to set the column names
+gsub()        : to change the column name
+write.table() : to get the final output txt file
