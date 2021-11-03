@@ -1,7 +1,7 @@
 # Getting-Cleaning-Data
 Project Assessment from coursera
 BY: Sharif Md. Rakibul Raihan
-
+OUTPUT FILE: Raihan_Final.txt
 This is a coursera required code. The requirement is as below:
 
 Getting and Cleaning Data Course Project:
